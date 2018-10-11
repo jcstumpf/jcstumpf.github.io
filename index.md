@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+title: Jonathan Stumpf
+description: Jonathan Stumpf is a graduate student at the George Washington University
 keywords: statistics, data analytics
 ---
 
@@ -19,11 +19,6 @@ keywords: statistics, data analytics
 ### <a name="Portfolio"></a>Portfolio
 
 <a href = "https://jcstumpf.github.io/assets/HW1_stumpf.ipynb">Assignment1</a>
-
-<a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
-</a>
-
 
 
 <table class="wide">
