@@ -19,6 +19,7 @@ keywords: statistics, data analytics
 ### <a name="Portfolio"></a>Portfolio
 
 <a href = "https://jcstumpf.github.io/assets/HW1_stumpf.ipynb">Assignment1</a>
+<a href = "https://jcstumpf.github.io/Assignments/HW2_Stumpf.ipynb">Assignment2</a>
 
 
 <table class="wide">
