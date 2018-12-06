@@ -8,10 +8,8 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li><a href="https://jcstumpf.github.io/">github</a></li>
+          <li><a href="https://www.linkedin.com/in/jonathan-stumpf-132b8152/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
@@ -20,7 +18,7 @@ keywords: statistics, data analytics
 
 <a href = "https://jcstumpf.github.io/assets/HW1_stumpf.ipynb">Assignment1</a>
 <a href = "https://jcstumpf.github.io/Assignments/HW2_Stumpf.ipynb">Assignment2</a>
-
+<a href = "https://jcstumpf.github.io/Assignments/HW3_Stumpf.ipynb">Assignment3</a>
 
 <table class="wide">
 <tr>
