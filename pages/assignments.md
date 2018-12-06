@@ -18,13 +18,13 @@ description: Jonathan Stumpf's assignments for ESME 6992
 
 ### EMSE 6992 Assignments
 ####  <a name="Assignment1"></a>Assignment1
-* [(<a href = "https://jcstumpf.github.io/assets/HW1_stumpf.ipynb">Assignment1</a>)]
+* [(<a href = "https://jcstumpf.github.io/Assignments/HW1_stumpf.ipynb">Assignment1</a>)]
      
 
 ####  <a name="Assignment2"></a>Assignment2
-* [(<a href = "https://jcstumpf.github.io/assets/HW2_stumpf.ipynb">Assignment2</a>)]
+* [(<a href = "https://jcstumpf.github.io/Assignments/HW2_stumpf.ipynb">Assignment2</a>)]
 
 
 ####  <a name="Assignment3"></a>Assignment3
-* [(<a href = "https://jcstumpf.github.io/assets/HW3_stumpf.ipynb">Assignment3</a>)]
+* [(<a href = "https://jcstumpf.github.io/Assignments/HW3_stumpf.ipynb">Assignment3</a>)]
 
