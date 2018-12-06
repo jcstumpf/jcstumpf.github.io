@@ -22,9 +22,9 @@ description: Jonathan Stumpf's assignments for ESME 6992
      
 
 ####  <a name="Assignment2"></a>Assignment2
-* [(<a href = "https://jcstumpf.github.io/Assignments/HW2_stumpf.ipynb">Assignment2</a>)]
+* [(<a href = "https://jcstumpf.github.io/Assignments/HW2_Stumpf.ipynb">Assignment2</a>)]
 
 
 ####  <a name="Assignment3"></a>Assignment3
-* [(<a href = "https://jcstumpf.github.io/Assignments/HW3_stumpf.ipynb">Assignment3</a>)]
+* [(<a href = "https://jcstumpf.github.io/Assignments/HW3_Stumpf.ipynb">Assignment3</a>)]
 
