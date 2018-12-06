@@ -18,16 +18,13 @@ description: Jonathan Stumpf's assignments for ESME 6992
 
 ### EMSE 6992 Assignments
 ####  <a name="Assignment1"></a>Assignment1
-##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](<a href = "https://jcstumpf.github.io/assets/HW1_stumpf.ipynb">Assignment1</a>)
+* [(<a href = "https://jcstumpf.github.io/assets/HW1_stumpf.ipynb">Assignment1</a>)]
      
 
 ####  <a name="Assignment2"></a>Assignment2
-##### <a name="scientificcomputing"></a>scientific computing
-* [Lab: Scikit-Learn, Regression, PCA](https://jcstumpf.github.io/Assignments/HW2_stumpf.ipynb)
+* [(<a href = "https://jcstumpf.github.io/assets/HW2_stumpf.ipynb">Assignment2</a>)]
 
 
 ####  <a name="Assignment3"></a>Assignment3
-##### <a name="deeplearning"></a>machine learning part1
-* [Lab: Neural Networks](https://jcstumpf.github.io/Assignments/HW3_stumpf.ipynb)
+* [(<a href = "https://jcstumpf.github.io/assets/HW3_stumpf.ipynb">Assignment3</a>)]
 
