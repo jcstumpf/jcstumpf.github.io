@@ -17,7 +17,7 @@ jstumpf7@gmail.com<br>
 jcstumpf@gwu.edu
 
 #### <a name="cvandresume"></a>Resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/stumpf_resume.pdf)
+[Stumpf Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/stumpf_resume.pdf)
 
 ---
 
