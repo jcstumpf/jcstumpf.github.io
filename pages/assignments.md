@@ -19,7 +19,7 @@ description: Jonathan Stumpf's assignments for ESME 6992
 ### EMSE 6992 Assignments
 ####  <a name="Assignment1"></a>Assignment1
 ##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://jcstumpf.github.io/Assignments/HW1_stumpf.ipynb)
+* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](<a href = "https://jcstumpf.github.io/assets/HW1_stumpf.ipynb">Assignment1</a>)
      
 
 ####  <a name="Assignment2"></a>Assignment2
