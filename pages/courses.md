@@ -16,18 +16,15 @@ description: Student's Courses
 
 ### <a name="current"></a>Current courses
 
-#### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2017)
+#### 
 
-- [Site](https://bsharvey.github.io/)
-- [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)
-- [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
-
-#### Programming for Analytics (EMSE 6574)
+- [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2018)
+- Programming for Analytics (EMSE 6574; Fall, 2018)
 
 ---
 
 ### <a name="old"></a>Former courses
 
-#### Design & Analysis of Algoriths (CSCI 6212)  
+- Design & Analysis of Algoriths (CSCI 6212; Spring, 2018)  
 
 ---
