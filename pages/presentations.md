@@ -5,7 +5,7 @@ description: Student's Presentations in Data Analytics
 ---
 
 
-###  2017
+###  2018
 
 #### EMSE 6992 Final Project: Open Air Quality Study
 <br/>&nbsp; &nbsp; &nbsp; Slides:
