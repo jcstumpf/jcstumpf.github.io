@@ -9,7 +9,7 @@ description: Student's Presentations in Data Analytics
 
 #### EMSE 6992 Final Project: Open Air Quality Study
 <br/>&nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/SGN2017/sgn2017.pdf)
+[![pdf](icons16/pdf-icon.png)](http://jcstumpf.github.io/assets/Open_AQ_Data_Study.pdf)
 &nbsp; &nbsp; &nbsp; 
 
 ---
