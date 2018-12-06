@@ -12,8 +12,12 @@ Senior Systems Engineer @ Harris Corporation
 Lehigh University 2007-2012 (BS Electrical Engineering)<br>
 George Washington Universiy 2018 - (MS Data Analytics)
 
-#### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
+#### <a name="contatct"></a>Contact
+jstumpf7@gmail.com<br>
+jcstumpf@gwu.edu
+
+#### <a name="cvandresume"></a>Resume
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/stumpf_resume.pdf)
 
 ---
 
