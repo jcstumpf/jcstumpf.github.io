@@ -10,7 +10,7 @@ Senior Systems Engineer @ Harris Corporation
 
 #### <a name="education"></a>Education
 Lehigh University 2007-2012 (BS Electrical Engineering)<br>
-George Washington Universiy 2018 - (MS Data Analytics)
+George Washington Universiy 2018 - [2021] (MS Data Analytics)
 
 #### <a name="contatct"></a>Contact
 jstumpf7@gmail.com<br>
