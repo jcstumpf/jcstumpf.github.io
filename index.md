@@ -25,7 +25,7 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="right">
-    <a href="https://bsharvey.github.io/pages/publpics/nba1.html">
+    <a>
         <img src="assests/publpics/outlier_detection.png" alt="outlier detection"/>
     </a>
   </td>
