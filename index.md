@@ -26,7 +26,7 @@ keywords: statistics, data analytics
   </td>
   <td class="right">
     <a>
-        <img src="assests/publpics/outlier_detection.png" alt="outlier detection"/>
+        <img src="assets/publpics/outlier_detection.png" alt="outlier detection"/>
     </a>
   </td>
 </tr>
