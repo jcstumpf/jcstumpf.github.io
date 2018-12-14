@@ -16,3 +16,18 @@ keywords: statistics, data analytics
 
 ### <a name="Portfolio"></a>Portfolio
 
+
+<table class="wide">
+<tr>
+  <td class="left">
+    <a>
+        <img src="assets/publpics/neuro_by_geo.png" alt="Neurological Disorder Rate of Change" title="Neurological Disorder Rate of Change"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="https://bsharvey.github.io/pages/publpics/nba1.html">
+        <img src="assests/publpics/outlier_detection.png" alt="outlier detection"/>
+    </a>
+  </td>
+</tr>
+</table>
